@@ -1,1 +1,1 @@
-This is a private whitelist for FadyOS builds. Any people who bought my subscription will have access to my paid roms. This repo is about registering serial numbers in order to protect rom getting leaked.
+This is a private whitelist for EvoOS builds. Any people who bought my subscription will have access to my paid roms. This repo is about registering serial numbers in order to protect rom getting leaked.
